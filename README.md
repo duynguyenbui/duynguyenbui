@@ -14,8 +14,7 @@ const nguyen = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, C#, Java],
   tool: [JetBrains, VSCode, Oracle SQL Developer, ...],
-  Database: [MySQL, SQL Server, Oracle SQL..]
-
+  database: [MySQL, SQL Server, Oracle SQL..],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
