@@ -17,8 +17,9 @@ public class JobIntroduction {
     String name = "Duy Nguyen Bui";
     int yearOfBirth = 2003;
     String jobTitle = "Backend Developer";
-    int yearsOfExperience = 5;
-    String[] skills = {"Java", "Spring Framework", "RESTful API", "SQL", "C#", "ASP.NET"};
+    String[] skills = {"Java", "Spring Framework", "RESTful API", "SQL", "C#", "ASP.NET", "..."};
+    String[] database = {"MySQL", "SQL Server", "Oracle SQL", "MonggoDB", "..."};
+    String[] tool = {"JetBrains", "VSCode", "Oracle SQL Developer", "..."};
     System.out.println("I always want to develop myself in the backend field.");
   }
 }
