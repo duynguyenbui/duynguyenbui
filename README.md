@@ -1,5 +1,5 @@
 <h2> Hi, I'm Duy Nguyen Bui! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/media/8b04272316297dec2a36dfe95c782340.gif" width="230">
+<img align='right' src="https://cdn-icons-png.flaticon.com/512/2409/2409387.png" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">Can Tho University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
@@ -16,7 +16,7 @@ const nguyen = {
   tool: [JetBrains, VSCode, Oracle SQL Developer, ...],
   SQL: [MySQL, MongoDB, SQL Server,..]
 
- challenge: "I am doing the #100DaysOfCode challenge focused backend"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
