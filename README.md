@@ -16,7 +16,7 @@ const nguyen = {
   tool: [JetBrains, VSCode, Oracle SQL Developer, ...],
   SQL: [MySQL, MongoDB, SQL Server,..]
 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused backend"
 }
 ```
 
