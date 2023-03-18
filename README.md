@@ -4,18 +4,23 @@
 </em></p>
 
 [![Facebook: Bui Nguyen](https://img.shields.io/badge/Facebook-Bui%20Nguyen-blue)](https://www.facebook.com/profile.php?id=100011612623044)
+[![Mail duynguyenbui](https://img.shields.io/badge/Mail-Contact%20Me-red)](mailto:duynguyen.bui@outlook.com)
 [![GitHub duynguyenbui](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/duynguyenbui)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const nguyen = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C#, Java],
-  tool: [JetBrains, VSCode, Oracle SQL Developer, ...],
-  database: [MySQL, SQL Server, Oracle SQL..],
- challenge: "I am doing the #100DaysOfCode challenge focused on backend"
+```Java
+public class JobIntroduction {
+  public static void main(String[] args) {
+    String name = "Duy Nguyen Bui";
+    int yearOfBirth = 2003;
+    String jobTitle = "Backend Developer";
+    int yearsOfExperience = 5;
+    String[] skills = {"Java", "Spring Framework", "RESTful API", "SQL", "C#", "ASP.NET"};
+    System.out.println("I always want to develop myself in the backend field.");
+  }
 }
 ```
 
