@@ -15,7 +15,7 @@
 public class Job_Description {
   public static void main(String[] args) {
     String name = "Duy Nguyen Bui";
-    String jobTitle = "Developer";
+    String jobTitle = "Computer Engineer";
     String[] skills = {"Java", "Relational Database", "C#", "ASP.NET", "Spring Framework", "..."};
     String[] database = {"MySQL", "SQL Server", "Oracle SQL", "..."};
     String[] tool = {"JetBrains", "VSCode", "Oracle SQL Developer", "..."};
