@@ -11,15 +11,16 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```Java
+```C#
 public class Job_Description {
-  public static void main(String[] args) {
-    String name = "Duy Nguyen Bui";
-    String jobTitle = "Computer Engineer";
-    String[] skills = {"Java", "Relational Database", "C#", "ASP.NET", "Spring Framework", "..."};
-    String[] database = {"MySQL", "SQL Server", "Oracle SQL", "..."};
-    String[] tool = {"JetBrains", "VSCode", "Oracle SQL Developer", "..."};
-    System.out.println("I always want to develop myself in the backend field.");
+  public static void Main(string[] args) {
+    string name = "Duy Nguyen Bui";
+    string jobTitle = "Software Engineer";
+    string[] skills = {"Java", "Relational Database", "C#", "ASP.NET", 
+                 "Spring Framework", "..."};
+    string[] database = {"MySQL", "SQL Server", "Oracle SQL", "..."};
+    string[] tool = {"JetBrains", "VSCode", "Oracle SQL Developer", "..."};
+    Console.WriteLine("I always want to develop myself in the backend field.");
   }
 }
 ```
