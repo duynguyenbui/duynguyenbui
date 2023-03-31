@@ -20,7 +20,7 @@ public class Job_Description {
                  "Spring Framework", "..."};
     string[] database = {"MySQL", "SQL Server", "Oracle SQL", "..."};
     string[] tool = {"JetBrains", "VSCode", "Oracle SQL Developer", "..."};
-    Console.WriteLine("I always want to develop myself in the backend field.");
+    Console.WriteLine("My dream is to become a Master of Software Engineering");
   }
 }
 ```
