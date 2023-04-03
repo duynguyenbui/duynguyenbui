@@ -1,6 +1,5 @@
 <h2> Hi, I'm Duy Nguyen Bui! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyenbui&layout=compact" width="230">
-img
 <p><em>Software Enginner at <a href="http://www.ctu.edu.vn">Can Tho University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
