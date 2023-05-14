@@ -12,10 +12,12 @@ public class Job_Description {
   public static void Main(string[] args) {
     string name = "Duy Nguyen Bui";
     string jobTitle = "Software Engineer";
-    string[] skills = {"Java", "Relational Database", "C#", "ASP.NET", 
-                 "Spring Framework", "..."};
-    string[] database = {"MySQL", "SQL Server", "Oracle SQL", "..."};
-    string[] tool = {"JetBrains", "VSCode", "Oracle SQL Developer", "..."};
+    string[] language = {"Java", "C#", 
+                 "JavaScript", "WEB Basic","..."};
+    string[] framework = {"Hibernate", "ASP.NET", 
+                 "Spring Framework", "ADO.NET", "..."};
+    string[] database = {"MySQL", "SQL Server", "Relational Database", "..."};
+    string[] tool = {"JetBrains", "VSCode", "..."};
     Console.WriteLine("My dream is to become a Master of Software Engineering");
   }
 }
