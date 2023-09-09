@@ -15,8 +15,8 @@ public class Job_Description {
     string[] language = {"Java", "C#", 
                  "Typescript", "Javascript", "..."};
     string[] framework = {"ASP.NET Core", 
-                 "Spring Boot", "Next.JS", "..."};
-    string[] database = {"MySQL", "Relational Database", "..."};
+                 "Next.JS", "Spring Boot", "..."};
+    string[] database = {"Relational Database", "NoSQL Database", "..."};
     string[] tool = {"JetBrains", "VSCode", "..."};
     Console.WriteLine("My dream is to become a Master of Software Engineering");
   }
