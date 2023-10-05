@@ -6,7 +6,7 @@
 [![Facebook: Bui Nguyen](https://img.shields.io/badge/Facebook-Bui%20Nguyen-blue)](https://www.facebook.com/profile.php?id=100011612623044)
 [![Mail duynguyenbui](https://img.shields.io/badge/Mail-Contact%20Me-red)](mailto:duynguyen.bui@outlook.com)
 [![GitHub duynguyenbui](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/duynguyenbui)
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 ```C#
 public class Job_Description {
   public static void Main(string[] args) {
