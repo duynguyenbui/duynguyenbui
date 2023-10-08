@@ -13,7 +13,7 @@ public class Job_Description {
     string name = "Duy Nguyen Bui";
     string[] language = {"Java", "C#", 
                  "Typescript", "Javascript", "..."};
-    string[] framework = {"ASP.NET Core", 
+    string[] framework = {".NET", 
                  "Next.JS", "Spring Boot", "..."};
     string[] database = {"Relational Database", "NoSQL Database", "..."};
     string[] tool = {"JetBrains", "VSCode", "..."};
