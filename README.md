@@ -11,7 +11,6 @@
 public class Job_Description {
   public static void Main(string[] args) {
     string name = "Duy Nguyen Bui";
-    string jobTitle = "Software Engineer";
     string[] language = {"Java", "C#", 
                  "Typescript", "Javascript", "..."};
     string[] framework = {"ASP.NET Core", 
