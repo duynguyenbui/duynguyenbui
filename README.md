@@ -12,7 +12,7 @@ public class Job_Description {
   public static void Main(string[] args) {
     string name = "Duy Nguyen Bui";
     string[] language = {"Java", "C#", 
-                 "Typescript", "Javascript", "Python",...};
+                 "Typescript", "Javascript", "Python", "..." };
     string[] framework = {".NET", 
                  "Next.JS", "Spring Boot", "..."};
     string[] database = {"Relational Database", "NoSQL Database", "..."};
