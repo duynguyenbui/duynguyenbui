@@ -9,10 +9,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 ```C#
   var name = "Duy Nguyen Bui";
-  string[] language = ["Java", "C#", "Typescript", "Javascript", "Python", "..."];
-  string[] framework = ["dotnet", "Next.JS", "Spring Boot", "..."];
-  string[] database = ["Relational Database", "NoSQL Database", "..."];
-  string[] tool = ["JetBrains", "VSCode", "..."];
+  string[] languages = ["Java", "C#", "Typescript", "Javascript", "Python", "..."];
+  string[] frameworks = ["dotnet", "Next.JS", "Spring Boot", "..."];
+  string[] databases = ["Relational Database", "NoSQL Database", "..."];
+  string[] tools = ["JetBrains", "VSCode", "..."];
   Console.WriteLine("My dream is to become a Master of Software Engineering");
 ```
 ---
