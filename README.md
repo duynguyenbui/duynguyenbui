@@ -8,17 +8,11 @@
 [![GitHub duynguyenbui](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/duynguyenbui)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 ```C#
-public class Job_Description {
-  public static void Main(string[] args) {
-    string name = "Duy Nguyen Bui";
-    string[] language = {"Java", "C#", 
-                 "Typescript", "Javascript", "Python", "..." };
-    string[] framework = {".NET", 
-                 "Next.JS", "Spring Boot", "..."};
-    string[] database = {"Relational Database", "NoSQL Database", "..."};
-    string[] tool = {"JetBrains", "VSCode", "..."};
-    Console.WriteLine("My dream is to become a Master of Software Engineering");
-  }
-}
+  var name = "Duy Nguyen Bui";
+  string[] language = ["Java", "C#", "Typescript", "Javascript", "Python", "..."];
+  string[] framework = ["dotnet", "Next.JS", "Spring Boot", "..."];
+  string[] database = ["Relational Database", "NoSQL Database", "..."];
+  string[] tool = ["JetBrains", "VSCode", "..."];
+  Console.WriteLine("My dream is to become a Master of Software Engineering");
 ```
 ---
