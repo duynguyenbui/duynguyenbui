@@ -9,10 +9,10 @@
 ###
 ```C#
   var name = "Duy Nguyen Bui";
-  string[] languages = ["Java", "C#", "Typescript", "Javascript", "Python", "..."];
+  string[] languages = ["Java", "C#", "Typescript", "Javascript", "..."];
   string[] frameworks = ["dotnet", "Next.JS", "Spring Boot", "..."];
-  string[] databases = ["Relational Database", "NoSQL Database", "..."];
+  string[] databases = ["Relational Database", "..."];
   string[] tools = ["JetBrains", "VSCode", "..."];
-  Console.WriteLine("My dream is to become a Master of Software Engineering");
+  Console.WriteLine("I always want to dive deeper into innovative technologies");
 ```
 ---
