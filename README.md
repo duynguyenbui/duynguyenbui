@@ -9,7 +9,7 @@
 ###
 ```C#
   var name = "Duy Nguyen Bui";
-  string[] languages = ["C#", "Typescript", "..."];
+  string[] languages = ["C#", "Typescript", "Javascript", "..."];
   string[] frameworks = ["dotnet", "NestJS", "Next.JS", "..."];
   string[] databases = ["Relational Database", "..."];
   string[] tools = ["JetBrains", "VSCode", "..."];
