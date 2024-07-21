@@ -10,7 +10,7 @@
 ```C#
   var name = "Duy Nguyen Bui";
   string[] languages = ["C#", "Typescript", "..."];
-  string[] frameworks = ["dotnet", "Next.JS", "..."];
+  string[] frameworks = ["dotnet", "NestJS", "Next.JS", "..."];
   string[] databases = ["Relational Database", "..."];
   string[] tools = ["JetBrains", "VSCode", "..."];
   Console.WriteLine("I always want to delve deeper into state-of-the-art technologies");
