@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2> Duy Nguyen Bui</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyenbui&layout=compact" width="230">
+<p><em>Majoring in Software Enginneering at <a href="http://www.ctu.edu.vn">Can Tho University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
+</em></p>
 
-<!--
-**duynguyenbui/duynguyenbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Facebook: Bui Nguyen](https://img.shields.io/badge/Facebook-Bui%20Nguyen-blue)](https://www.facebook.com/profile.php?id=100011612623044)
+[![Mail duynguyenbui](https://img.shields.io/badge/Mail-Contact%20Me-red)](mailto:buiduy.ng@gmail.com)
+[![GitHub duynguyenbui](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/duynguyenbui)
+###
+```C#
+  var name = "Duy Nguyen Bui";
+  string[] languages = ["C#", "Typescript", "Javascript", "..."];
+  string[] frameworks = ["dotnet", "Next.JS", "..."];
+  string[] databases = ["Relational Database", "..."];
+  string[] tools = ["JetBrains", "VSCode", "..."];
+  Console.WriteLine("I always want to delve deeper into state-of-the-art technologies");
+```
+---
