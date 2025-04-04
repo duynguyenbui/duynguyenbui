@@ -1,6 +1,6 @@
-<h2> Duy Nguyen Bui</h2>
+<h2> Duy Nguyen Bui (3.90 Overall GPA)</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyenbui&layout=compact" width="230">
-<p><em>Majoring in Software Enginneering at <a href="http://www.ctu.edu.vn">Can Tho University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
+<p><em>Graduated from <a href="http://www.ctu.edu.vn">Can Tho University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> to become Software Engineer officially 
 </em></p>
 
 [![Facebook: Bui Nguyen](https://img.shields.io/badge/Facebook-Bui%20Nguyen-blue)](https://www.facebook.com/profile.php?id=100011612623044)
